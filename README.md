@@ -24,3 +24,14 @@ The **Fibonacci series** is a sequence of numbers where each number is the sum o
 ### **Example**
 **0, 1, 1, 2, 3, 5, 8, 13, 21.....**
 
+
+## 3. Sum of the Digites
+
+The **addition of the digits** present in the given number. 
+
+### **Example**
+1. **sum(123) = 1 + 2 + 3 = 6**
+2. **sum(1) = 1**
+
+
+
