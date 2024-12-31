@@ -34,4 +34,12 @@ The **addition of the digits** present in the given number.
 2. **sum(1) = 1**
 
 
+## 3. Reverse the Number
+
+The **reverse the digits** of the given number. 
+
+### **Example**
+1. **123 = 321**
+2. **23456 = 65432**
+
 
