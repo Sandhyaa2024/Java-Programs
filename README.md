@@ -43,4 +43,24 @@ The **reverse the digits** of the given number.
 2. **23456 = 65432**
 
 
+## 4. Armstrong Number
+An **Armstrong number** is a number that is equal to the sum of its own digits raised to the power of the number of digits.
+
+Definition:
+For an number 𝑛 = abc
+a, b, c are the digits of the number, Therefore the count of the number is 3. 
+The number is an Armstrong number if:
+
+abc = a ^ count + b ^count + c ^ count.
+
+**Examples:**
+1. **153:**
+count = 3
+1 ^ 3 + 5 ^ 3 + 3 ^ 3 = 1 + 125 + 27 = 153
+So, 153 is an Armstrong number.
+
+2. **9474:**
+count = 4;
+9^4 + 4^4 + 7^4 + 4^4 = 6561 + 256 + 2401 + 256 = 9474
+So, 9474 is an Armstrong number.
 
