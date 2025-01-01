@@ -46,7 +46,6 @@ The **reverse the digits** of the given number.
 ## 4. Armstrong Number
 An **Armstrong number** is a number that is equal to the sum of its own digits raised to the power of the number of digits.
 
-Definition:
 For an number 𝑛 = abc
 a, b, c are the digits of the number, Therefore the count of the number is 3. 
 The number is an Armstrong number if:
