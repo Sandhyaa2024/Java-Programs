@@ -63,3 +63,10 @@ count = 4;
 9^4 + 4^4 + 7^4 + 4^4 = 6561 + 256 + 2401 + 256 = 9474
 So, 9474 is an Armstrong number.
 
+
+## 5. GCD (Greatest Common Divisor)
+The **Greatest Common Divisor (GCD)** of two integers is the largest positive integer that divides both numbers without leaving a remainder. It is also known as the greatest common factor (GCF) or highest common factor (HCF).
+
+**Example**
+1.GCD(
+
