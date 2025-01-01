@@ -68,5 +68,10 @@ So, 9474 is an Armstrong number.
 The **Greatest Common Divisor (GCD)** of two integers is the largest positive integer that divides both numbers without leaving a remainder. It is also known as the greatest common factor (GCF) or highest common factor (HCF).
 
 **Example**
-1.GCD(
+**GCD(12, 18)**
+1. Factors of 12 : 1, 2, 3, 4, 6, 12
+2. Factors of 18 : 1, 2, 3, 6, 9, 18
+3. common factors : 1, 2, 3, 6
+4. GCD(12, 18) = 6
+
 
